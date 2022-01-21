@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://https://shorun-tech.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shorun-tech.vercel.app/)**
 
 - 📫 How to reach me **gshoronke@gmail.com**
 
