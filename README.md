@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[static web app with react/tailswind css](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Crypto Web App/ Using React.js and Tailwinds]**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m a Content Creator and Youtuber ** https://www.youtube.com/channel/UCCEAthZ8ntnhz1umBAKlsRA" **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **gshoronke@gmail.com**
 
-- ⚡ Fun fact **I play games and go to  beach often.**
+- ⚡ Fun fact **I Love Exploring New Technology and Also love Gospel Musics.**
 
 ## 🚀 Languages and Tools:
 
@@ -77,7 +77,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshoruntech">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshoruntech">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://twitter.com/shoruntech/followers"><img src="https://img.shields.io/twitter/follow/shoruntech?style=social" alt="Twitter Badge"></a>
