@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on **[Crypto Web App/ Using React.js and Tailwinds]**
 
-- 🌱 I’m a Content Creator and Youtuber ** https://www.youtube.com/channel/UCCEAthZ8ntnhz1umBAKlsRA **
-
+- 🌱 I’m a Content Creator and Youtuber **[ https://www.youtube.com/channel/UCCEAthZ8ntnhz1umBAKlsRA ]**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shorun-tech.vercel.app/)**
