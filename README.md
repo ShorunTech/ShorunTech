@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="img/git.png" height="175px"/></a>
+<video>  <source src="v.mp4" type="video/mp4"></video>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ShorunTech</h1>
 <h3 align="center">I'm a Full Stack Web Developer from Nigeria.</h3>
