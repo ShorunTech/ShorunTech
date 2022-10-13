@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Crypto Web App/ Using React.js and Tailwinds]**
 
-- 🌱 I’m a Content Creator and Youtuber ** https://www.youtube.com/channel/UCCEAthZ8ntnhz1umBAKlsRA" **
+- 🌱 I’m a Content Creator and Youtuber ** https://www.youtube.com/channel/UCCEAthZ8ntnhz1umBAKlsRA **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -46,7 +46,7 @@
     <a href="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShorunTech)](https://github.com/ShorunTech/github-readme-streak-stats)">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-<a href="https://app.daily.dev/ShorunTech"><img src="https://api.daily.dev/devcards/b3f97eca8d024892a1035a16d64e8f87.png?r=au2" width="400" alt="Shoruntech's Dev Card"/></a>
+
 </p>
 
 ## 📊 My Github Stats
