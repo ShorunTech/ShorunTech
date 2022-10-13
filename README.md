@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="img/g.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="img/w.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ShorunTech</h1>
 <h3 align="center">I'm a Full Stack Web Developer from Nigeria.</h3>
